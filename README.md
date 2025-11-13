@@ -80,7 +80,9 @@ No build steps, no dependencies—just a static site.
 ---
 
 ## 5. Screenshots
-
+![Demo Image 1](assets/demo1.png)
+![Demo Image 2](assets/demo2.png)
+![Demo Image 3](assets/demo3.png)
 
 ---
 
