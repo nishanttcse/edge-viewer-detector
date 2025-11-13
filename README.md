@@ -130,3 +130,5 @@ the same core challenges as the original Android-based brief:
 ✅ Native-level image processing
 ✅ Efficient UI rendering
 ✅ Clear, modular code structure
+
+Deploy Link: https://edge-viewer-detector.vercel.app/
